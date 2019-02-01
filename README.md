@@ -3,4 +3,4 @@
 
 测试结果
 
-![Image text](https://github.com/blueapplehe/car_identify/blob/master/image/12345.png)
+![Image text](https://github.com/blueapplehe/shihua/blob/master/2222.png)
